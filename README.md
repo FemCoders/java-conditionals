@@ -1,4 +1,4 @@
-# :paperclip: Cnodicionales en Java
+# :black_joker: Condicionales en Java
 
 ### Introducción
 Este archivo contiene varios ejercicios para poder practicar el uso de condicionales. Dentro de cada archivo, se encuentran las instrucciones específicas. Vamos a resolver los ejercicios en el siguiente orden:
